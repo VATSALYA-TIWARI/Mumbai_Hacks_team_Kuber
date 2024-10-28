@@ -58,7 +58,4 @@ We are proud to announce that **Kuber** emerged as a winner at **Mumbai Hacks 20
    flask run
    ```
 
-## Usage
-
-After completing the setup steps, access the application at `http://localhost:5173/` for the frontend, and ensure your Flask server is running on `http://localhost:5000/`.
 
